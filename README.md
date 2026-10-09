@@ -3,7 +3,7 @@ application where students can raise complaints about campus problems - such as 
 projector, slow Wi-Fi, poor cleanliness or safety concerns - and follow the progress of each
 complaint until it is resolved. College administrators get a dashboard with a summary of all
 issues, can filter them by status, and update each complaint with a new status and a note that
-students can read.
+students can read.🧑‍🎓
 
 The project was developed because complaints in most colleges are still made verbally or on
 paper, with no record, no accountability and no way for the student to know what happened
